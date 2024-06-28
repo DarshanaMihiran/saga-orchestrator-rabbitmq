@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\PaymentService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F3F316-7EE3-4774-AEBD-9F9D6C979B01}|PaymentService.csproj|d:\\career\\other projects\\saga-ochestrator-pattern\\paymentservice\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F3F316-7EE3-4774-AEBD-9F9D6C979B01}|PaymentService.csproj|solutionrelative:paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F3F316-7EE3-4774-AEBD-9F9D6C979B01}|PaymentService.csproj|d:\\career\\other projects\\saga-ochestrator-pattern\\paymentservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F3F316-7EE3-4774-AEBD-9F9D6C979B01}|PaymentService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\PaymentService\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentService.cs",
+              "ToolTip": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\PaymentService\\PaymentService.cs",
+              "RelativeToolTip": "PaymentService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:37:15.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\PaymentService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\PaymentService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:36:34.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

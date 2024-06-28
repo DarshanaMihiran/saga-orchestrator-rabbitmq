@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8vVrzeCDVi5yPw3cTwCPXhZBe1cGuW8VKpDmChD8KgvUy7pxIdIWQS2Rp58PZlC6HJPBUZg4KxuMWAjwh8UxSg==",
+  "success": true,
+  "projectFilePath": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\ShippingService\\ShippingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\bin\Debug\net8.0\Ochestrator.exe
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\bin\Debug\net8.0\Ochestrator.deps.json
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\bin\Debug\net8.0\Ochestrator.runtimeconfig.json
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\bin\Debug\net8.0\Ochestrator.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\bin\Debug\net8.0\Ochestrator.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestrator.csproj.AssemblyReference.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestrator.AssemblyInfoInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestrator.AssemblyInfo.cs
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestrator.csproj.CoreCompileInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestra.6DD1B921.Up2Date
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestrator.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\refint\Ochestrator.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestrator.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\Ochestrator.genruntimeconfig.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\Ochestrator\obj\Debug\net8.0\ref\Ochestrator.dll

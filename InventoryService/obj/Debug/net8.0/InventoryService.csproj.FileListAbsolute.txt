@@ -1,0 +1,17 @@
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\bin\Debug\net8.0\InventoryService.exe
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\bin\Debug\net8.0\InventoryService.deps.json
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\bin\Debug\net8.0\InventoryService.runtimeconfig.json
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\bin\Debug\net8.0\InventoryService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\bin\Debug\net8.0\InventoryService.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\InventoryService.csproj.AssemblyReference.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\InventoryService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\InventoryService.AssemblyInfoInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\InventoryService.AssemblyInfo.cs
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\InventoryService.csproj.CoreCompileInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\Inventor.248F7646.Up2Date
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\InventoryService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\refint\InventoryService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\InventoryService.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\InventoryService.genruntimeconfig.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\InventoryService\obj\Debug\net8.0\ref\InventoryService.dll

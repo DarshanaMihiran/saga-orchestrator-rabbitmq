@@ -1,0 +1,17 @@
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\bin\Debug\net8.0\OrderService.exe
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\bin\Debug\net8.0\OrderService.deps.json
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\bin\Debug\net8.0\OrderService.runtimeconfig.json
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\bin\Debug\net8.0\OrderService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\bin\Debug\net8.0\OrderService.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderService.csproj.AssemblyReference.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderService.AssemblyInfoInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderService.AssemblyInfo.cs
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderService.csproj.CoreCompileInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderSer.4493321F.Up2Date
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\refint\OrderService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderService.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\OrderService.genruntimeconfig.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\OrderService\obj\Debug\net8.0\ref\OrderService.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\InventoryService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D22623F-AE54-42A8-86E7-38FBC5FABE4C}|InventoryService.csproj|d:\\career\\other projects\\saga-ochestrator-pattern\\inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D22623F-AE54-42A8-86E7-38FBC5FABE4C}|InventoryService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D22623F-AE54-42A8-86E7-38FBC5FABE4C}|InventoryService.csproj|d:\\career\\other projects\\saga-ochestrator-pattern\\inventoryservice\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D22623F-AE54-42A8-86E7-38FBC5FABE4C}|InventoryService.csproj|solutionrelative:inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\InventoryService\\InventoryService.cs",
+              "RelativeDocumentMoniker": "InventoryService.cs",
+              "ToolTip": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\InventoryService\\InventoryService.cs",
+              "RelativeToolTip": "InventoryService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:33:43.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\InventoryService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Career\\Other Projects\\saga-ochestrator-pattern\\InventoryService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:33:09.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

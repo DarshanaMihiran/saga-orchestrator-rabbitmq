@@ -1,0 +1,17 @@
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\bin\Debug\net8.0\PaymentService.exe
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\bin\Debug\net8.0\PaymentService.deps.json
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\bin\Debug\net8.0\PaymentService.runtimeconfig.json
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\bin\Debug\net8.0\PaymentService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\bin\Debug\net8.0\PaymentService.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentService.csproj.AssemblyReference.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentService.AssemblyInfoInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentService.AssemblyInfo.cs
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentService.csproj.CoreCompileInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentS.0CEDD34D.Up2Date
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\refint\PaymentService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentService.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\PaymentService.genruntimeconfig.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\PaymentService\obj\Debug\net8.0\ref\PaymentService.dll

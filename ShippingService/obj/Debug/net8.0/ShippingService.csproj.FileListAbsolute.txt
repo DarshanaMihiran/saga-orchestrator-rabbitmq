@@ -1,0 +1,17 @@
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\bin\Debug\net8.0\ShippingService.exe
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\bin\Debug\net8.0\ShippingService.deps.json
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\bin\Debug\net8.0\ShippingService.runtimeconfig.json
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\bin\Debug\net8.0\ShippingService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\bin\Debug\net8.0\ShippingService.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ShippingService.csproj.AssemblyReference.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ShippingService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ShippingService.AssemblyInfoInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ShippingService.AssemblyInfo.cs
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ShippingService.csproj.CoreCompileInputs.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\Shipping.E3D92A95.Up2Date
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ShippingService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\refint\ShippingService.dll
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ShippingService.pdb
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ShippingService.genruntimeconfig.cache
+D:\Career\Other Projects\saga-ochestrator-pattern\ShippingService\obj\Debug\net8.0\ref\ShippingService.dll
